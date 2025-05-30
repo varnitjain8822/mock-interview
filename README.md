@@ -1,5 +1,5 @@
 # mock-interview
 <br>
-this is my first public repository
+this is my second public repository
 <br>
 hello world
